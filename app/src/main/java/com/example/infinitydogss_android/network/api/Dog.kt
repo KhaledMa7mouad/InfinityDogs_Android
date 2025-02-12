@@ -1,4 +1,4 @@
-package com.example.infinitydogss_android.api
+package com.example.infinitydogss_android.network.api
 
 import com.google.gson.annotations.SerializedName
 
